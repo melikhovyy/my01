@@ -1,6 +1,8 @@
 # my01
 # _**Project title**_
 
+This, ~~this~~ is awful
+
 ## 1. Introduction
 - [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] list syntax required (any unordered or ordered list supported)
