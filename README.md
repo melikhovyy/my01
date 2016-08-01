@@ -20,9 +20,14 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 1. Item 1
 2. Item 2
 3. Item 3
-  * Item 3a
-  * Item 3b
+  1. Item 3a
+  2. Item 3b
 
 ## Acknowledgements
+As Kanye West said:
+> We're living the future so
+> the present is our past.
 
 ## References
+I think you should use an
+`<addr>` element here instead.
